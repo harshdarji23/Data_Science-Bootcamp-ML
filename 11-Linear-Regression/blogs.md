@@ -4,3 +4,7 @@
 
 Implemetation:
 https://anaconda.org/sanchitiitr/linear-regression-model/notebook
+
+### Regularization:
+1. https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
+2. https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
