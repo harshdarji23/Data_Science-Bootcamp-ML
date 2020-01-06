@@ -1,7 +1,7 @@
 # Data_Science-Bootcamp-ML
 ### ML Glossary:
-1  https://developers.google.com/machine-learning/glossary/
-2. https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+* https://developers.google.com/machine-learning/glossary/
+* https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 
 ## Essential Concepts:
 
