@@ -28,5 +28,8 @@
 * https://medium.com/@george.drakos62/how-to-select-the-right-evaluation-metric-for-machine-learning-models-part-1-regrression-metrics-3606e25beae0?
 * https://medium.com/acing-ai/how-to-evaluate-regression-models-d183b4f5853d
 
+6. Kaggle Kernels:
+* SRK-Winning solution: https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
+* ML-Shivam Bansal: https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook
 
 # Cheatsheets: https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
